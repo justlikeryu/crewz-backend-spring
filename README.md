@@ -22,6 +22,7 @@ Crewz는 크고 작은 모든 크루들을 모아 놓은 허브로, 다양한 �
 | <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">           |                                                                                                              |                                                                                                        | <img src="https://img.shields.io/badge/DBDiagram-004088?style=for-the-badge&logo=&logoColor=white">           |
 | <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">       |                                                                                                              |                                                                                                        |                                                                                                               |
 
+*프론트엔드 코드는 [링크🔗](https://github.com/justlikeryu/crewz-front-react)에서 확인 가능합니다.
 ## 개발팀
 
 - 유정국([@yoojungkook](https://github.com/yoojungkook)): 프로젝트 총괄, 서버 배포, SFTP

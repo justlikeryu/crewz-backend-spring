@@ -24,7 +24,7 @@ Crewz는 크고 작은 모든 크루들을 모아 놓은 허브로, 다양한 �
 
 ## 개발팀
 
-- 유정국([@yoojungkook](https://github.com/yoojungkook)): 프로젝트 총괄, 서버 배포
+- 유정국([@yoojungkook](https://github.com/yoojungkook)): 프로젝트 총괄, 서버 배포, SFTP
 - 류가희([@justlikeryu](https://github.com/justlikeryu)) : Member, 스프링 시큐리티
 - 전홍재([@honghong94](https://github.com/honghong94)): Review
 - 김힘찬([@HmDol](https://github.com/HmDol)): Moim, 발표
@@ -46,19 +46,30 @@ Crewz는 크고 작은 모든 크루들을 모아 놓은 허브로, 다양한 �
 
 ### Category
 
-- 카테고리별 모임 CRUD
+- 카테고리
+    - 카테고리 생성
+    - 카테고리 조회
 
 ### Moim
 
-- 게시판 CRUD
+- 게시판
+    - 게시판에 글 작성
+    - 게시판에 작성된 글 조회
+    - 게시판에 작성한 글 수정
+    - 게시판에 작성한 삭제
 
 ### Somoim
 
-- 소모임 CRUD
-
+- 소모임
+    - 소모임 생성
+    - 생성한 소모임 삭제
+      
 ### Review
 
-- 리뷰 CRUD
-- 리뷰 댓글 CRUD
+- 리뷰 
+    - 리뷰 작성
+    - 작성된 리뷰 조회
+    - 작성한 리뷰 수정
+    - 작성한 리뷰 삭제
 
 
